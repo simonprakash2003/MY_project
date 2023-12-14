@@ -6,6 +6,13 @@ The Auto Sentence Complete project is a tool designed to automatically suggest a
 
 It is mainly focus on Blogger and content creator
 
+## working principal
+- Using web scrab collect the needed information in wikipedia
+- preprocessing using regular expression
+- Making the n-gram dictionary
+- Finding the tf-idf values
+- Using the cosine similarity
+- Display the output in interface
 ## Features
 
 - **Sentence Completion:** The core functionality of the project is to predict and complete sentences based on user input.
