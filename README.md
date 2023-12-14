@@ -23,5 +23,5 @@ It is mainly focus on Blogger and content creator
 
 ## install and open the python idle in pc
 
-- install the packages are nltk,pandas,sklearn,BeautifulSoup,regular expression,tkinder.
+- install the packages are nltk,random,request,sklearn,BeautifulSoup,regular expression,tkinder.
 - Then use my code in the your pc
